@@ -1,4 +1,9 @@
 #Phyton File
+#!/usr/bin/python  C:\Users\privera
+# -*- coding: utf-8 -*-
+# Sitio: http://www.pythondiario.com
+# Autor: Pedro Rivera
+# Haciendo pruebas con BeautifulSoup y requests
 #Scrawler  a la Pagina Web AS Diario en España de Futbol
 Front AS4 import.BeatifulSoap
 #Importar Libreria Request descargar imformacion de una Pagina HTML WEB
